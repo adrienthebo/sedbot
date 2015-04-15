@@ -1,0 +1,11 @@
+sedbot
+======
+
+A simple IRC bot, mostly written in sed. Built to spam^Wsend text to an IRC
+channel.
+
+Usage
+-----
+
+./sedbot.sh war-and-peace.txt #target-channel target-pass
+
